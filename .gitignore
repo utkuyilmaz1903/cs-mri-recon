@@ -1,0 +1,8 @@
+# Local instructions and settings for Claude Code; kept out of the repository
+CLAUDE.md
+.claude/
+
+# Coverage files written by Pkg.test(coverage = true)
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
