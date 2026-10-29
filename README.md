@@ -1,5 +1,7 @@
 # cs-mri-recon
 
+[![CI](https://github.com/utkuyilmaz1903/cs-mri-recon/actions/workflows/CI.yml/badge.svg)](https://github.com/utkuyilmaz1903/cs-mri-recon/actions/workflows/CI.yml)
+
 Compressed-sensing MRI reconstruction (ISTA/FISTA with wavelet sparsity), written from
 scratch in Julia, on simulated single-coil Cartesian data.
 
