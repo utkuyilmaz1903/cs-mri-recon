@@ -1,0 +1,9 @@
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+CSMRIRecon = "907e68e4-75ed-4152-841a-c3ae593b9712"
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+ImagePhantoms = "71a99df6-f52c-4da1-bd2a-69d6f37f3252"
+MRIReco = "bdf86e05-2d2b-5731-a332-f3fe1f9e047f"
+
+[sources]
+CSMRIRecon = {path = ".."}
