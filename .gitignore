@@ -2,6 +2,9 @@
 CLAUDE.md
 .claude/
 
+# Local learning sandbox: real scanner data and exploration scripts, outside the project's scope
+playground/
+
 # Coverage files written by Pkg.test(coverage = true)
 *.jl.cov
 *.jl.*.cov
