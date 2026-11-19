@@ -8,7 +8,7 @@ module CSMRIRecon
 
 using FFTW: fft, ifft, fftshift, ifftshift
 
-export fft2c, ifft2c
+export fft2c, ifft2c, undersampling_mask
 
 include("operators.jl")
 
